@@ -10,7 +10,7 @@ package studentinformationsystem; // Declare the package name
 public class StudentInformationSystem { // Declare the StudentInformationSystem class
     public static void main(String[] args) { // Main method the starting point of the program
         
-        System.out.println ("Student Name : Aufa Nazuha Binti Mohd Nazri"); // To display Student Name
+        System.out.println ("Student Name : Aufa Nazuha Binti Mohd Nazri - CSF3034"); // To display Student Name
         System.out.println ("Student ID : S85139"); // To display Student ID
         
         int mark1 = 67; // Store marks in variables
