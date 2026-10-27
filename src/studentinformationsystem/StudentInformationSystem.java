@@ -22,7 +22,7 @@ public class StudentInformationSystem { // Declare the StudentInformationSystem 
         System.out.println("Total Marks: " + total); // Display Total Marks
 
         if (total >= 80) { // Check if total marks are 80 or above
-            System.out.println("Result: Excellent"); // Display message 'Excellent' when total marks are 80 or above
+            System.out.println("Result: Excellent - Proud of you!!"); // Display message 'Excellent' when total marks are 80 or above
         } else if (total >= 50) { // Check if total marks are 50 or above
             System.out.println("Result: Good"); // Display message 'Good' when total marks are 50 or above
         } else { // Check if total marks less than 50
